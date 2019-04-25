@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+.homepage {
+  background-image: url('https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dwb6d5ba9e/images/homepage/home-hero.jpg');
+  width: 100%;
+  height: 100vh;
+}
