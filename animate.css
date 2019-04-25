@@ -1,0 +1,15 @@
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    position: relative;
+    top: 12%;
+  }
+
+  to {
+  opacity: 1;
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 1.5s;
+}
