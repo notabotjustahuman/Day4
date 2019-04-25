@@ -16,6 +16,14 @@ body {
   letter-spacing: 1.11px;
 }
 
+.text {
+  color: #fff;
+  line-height: 1.4;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
 .homepage {
   text-align: center;
   background-image: url('https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dwb6d5ba9e/images/homepage/home-hero.jpg');
